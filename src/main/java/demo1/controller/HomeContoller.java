@@ -11,7 +11,7 @@ public class HomeContoller {
 		return "stories";
 	}
 	
-	@RequestMapping("/valami")
+	@RequestMapping("/valamik")
 	public String valami() {
 		return "valami";
 	}
